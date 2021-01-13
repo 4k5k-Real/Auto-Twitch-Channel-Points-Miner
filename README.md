@@ -12,8 +12,7 @@ To run it, you first have to:
 1) [Download Python](https://www.python.org/downloads/).
 2) Install the dependencies. Run this command in the command line:<br>
 `pip3 install -r requirements.txt`<br>
-3) Open the file name `main.py` and enter your list of streamer in the line 30, like this: <br>
-`twitch_streamers = "streamer1,streamer2,streamer3" #Enter a list of name here, split by , (exemple: streamer1,streamer2,streamer3)
+3) Open the file name `main.py` and enter your list of streamer in the line 30, read the comment.
 
 Then you can run `main.py`
 
