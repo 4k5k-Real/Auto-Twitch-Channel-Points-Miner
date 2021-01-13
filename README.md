@@ -16,4 +16,4 @@ To run it, you first have to:
 
 Then you can run `main.py`
 
-![Screenshot](https://user-images.githubusercontent.com/55288842/96374655-8f233c00-117c-11eb-8c02-b2ba0d0d5962.png)
+![Screenshot](https://i.ibb.co/6bXbWhP/screenshot-miner.png)
